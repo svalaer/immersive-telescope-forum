@@ -34,6 +34,8 @@ telescope:tags
 telescope:theme-base
 telescope:theme-hubble
 telescope:update-prompt
+telescope:debug
+jeremy:telescope-plugin-hero
 
 ############ Your Custom Packages ############
 
